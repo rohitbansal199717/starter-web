@@ -8,6 +8,6 @@ Sample website with plenty of files for demos
 
 commit area
 
-staging area
+staging area1
 
-working directory
+working directory1
