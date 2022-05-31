@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    rohit  rohit@gmail.com  @rohit
 
 # THANKS
 
