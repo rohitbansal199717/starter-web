@@ -11,3 +11,7 @@ commit area
 staging area1
 
 working directory1
+
+###copyright
+
+2014 git.traning.
