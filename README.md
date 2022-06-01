@@ -17,4 +17,4 @@ review.
 
 ###copyright
 
-2014 git.traning.
+2014 git.traning.all rights reserved.
